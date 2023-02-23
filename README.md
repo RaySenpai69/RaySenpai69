@@ -17,7 +17,7 @@ My name is **Ray Senpai**, I'm 17 years old and I'm a student of *Class 11 CBSE 
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 
 - 📫 How to reach me: 
-   - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/whatsapp/whatsapp.png"> [Whatsapp](https://wa.me/447441415730)</a>
+   - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/whatsapp/whatsapp.png"> [Whatsapp](https://wa.me/919861494774)</a>
 
 <img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=RaySenpai69&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true"
 />
